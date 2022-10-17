@@ -6,7 +6,7 @@
   <link href="https://dreamlanter.github.io/atom.xml" rel="self"/>
   
   <link href="https://dreamlanter.github.io/"/>
-  <updated>2022-10-16T07:29:46.694Z</updated>
+  <updated>2022-10-17T13:04:33.939Z</updated>
   <id>https://dreamlanter.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>从头搭建个人博客</title>
+    <link href="https://dreamlanter.github.io/2022/10/16/%E4%BB%8E%E5%A4%B4%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://dreamlanter.github.io/2022/10/16/%E4%BB%8E%E5%A4%B4%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2022-10-16T13:10:34.000Z</published>
+    <updated>2022-10-17T13:04:33.939Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>从今年年初开始就想搭建一个个人博客，最开始是想用 <a href="https://wordpress.com/zh-cn/">WordPress</a> 这种偏成熟的解决方案。<del>因为网上资源多</del></p><h2 id="WordPress"><a href="#WordPress" class="headerlink" title="WordPress"></a><a href="https://wordpress.com/zh-cn/">WordPress</a></h2><p>用 <a href="https://wordpress.com/zh-cn/">WordPress</a> 的好处有</p><ol><li>用的人多网上能搜到一堆教程</li><li>有大量免费主题和插件</li><li>方便部署和维护能够随时更新</li></ol><p>但在产找过相关资料后权衡利弊最后放弃了，原因 : <a href="https://wordpress.com/zh-cn/">WordPress</a> 还要选购服务器、域名备案。</p><p>这笔费用在日后会成为很大的开销。</p><p><a href="https://wordpress.com/zh-cn/">WordPress</a> 是动态网站，有独立数据库只用来写博客有点大材小用。</p><blockquote><p><del>其实就是没钱买服务器</del></p></blockquote><h2 id="Hexo-GitHub-Pages"><a href="#Hexo-GitHub-Pages" class="headerlink" title="Hexo + GitHub Pages"></a><a href="https://hexo.io/zh-cn/">Hexo</a> + <a href="https://support.github.com/">GitHub Pages</a></h2><p>最后 Blog 选择了 Hexo + GitHub Pages 这套解决方案</p><h3 id="为什么要用-Hexo"><a href="#为什么要用-Hexo" class="headerlink" title="为什么要用 Hexo"></a>为什么要用 Hexo</h3><p>Hexo 是一个快速、简洁而强大的博客框架，基于 Node.js，同样托管于 GitHub 之上。生态中拥有众多插件主题。你可以基于它快速生成一些静态页面。<br>你可以使用别人的各种主题与插件，也可以自己定制开发想要的功能。</p><p>优点：</p><ol><li>因为主要是用作个人博客，Hexo不需要去购买额外的服务器，可以直接托管到 Github，免费的空间完全够用</li><li>Hexo 属于静态网页，体积小，网站性能好</li><li>Hexo 关于文章的保存，完全是 md 文档格式，可以更方便的备份和转移，像我这种危机意识比较重的人，特别不放心那些空间商的数据库和空间的安全性，生怕那一天网站崩了就全没了</li></ol><p>缺点：</p><ol><li>Hexo 基于 <a href="https://nodejs.org/en/">Node.js</a> 需要自行配置环境</li><li>不支持原生评论功能</li></ol><h3 id="GitHub-Pages-部署优点"><a href="#GitHub-Pages-部署优点" class="headerlink" title="GitHub Pages 部署优点"></a>GitHub Pages 部署优点</h3><blockquote><p><del>最大优点微软有💰可以白嫖</del></p></blockquote><p>GitHub Pages 是最好的——自由、免费、流量够用，目前的访问速度也还不错，完美！</p><p>如果会用 <a href="https://jekyllrb.com/">Jekyll</a> 可以写好 <code>Markdown</code> 后直接上传，快捷又方便。<del>除了我不会用以外没有任何问题</del></p><h1 id="关于网站的正式介绍"><a href="#关于网站的正式介绍" class="headerlink" title="关于网站的正式介绍"></a>关于网站的正式介绍</h1><p>在确定了要使用的框架和部署方法后接下来就是选定一个主题</p><h2 id="Hexo主题"><a href="#Hexo主题" class="headerlink" title="Hexo主题"></a>Hexo主题</h2><p>我使用的主题是 <a href="https://github.com/YunYouJun/hexo-theme-yun">hexo-theme-yun</a></p><p>这是<a href="https://www.yunyoujun.cn/">主题作者的 Blog </a>可以去支持一下</p><p>除了我现在使用的这个主题以外还有<a href="https://hexo.io/themes/">其他主题</a>可以选择</p><blockquote><p>另外一个我比较推荐的主题是 <a href="https://github.com/argvchs/hexo-theme-particlex">hexo-theme-particlex</a> 配置方便，简单快捷</p><p>有能力还可以自行配置，支持 <a href="https://vuejs.org/">Vue3</a> 上限高、下限低</p></blockquote><h3 id="yun"><a href="#yun" class="headerlink" title="yun"></a><a href="https://github.com/YunYouJun/hexo-theme-yun">yun</a></h3><p>关于 <a href="https://github.com/YunYouJun/hexo-theme-yun">yun</a> 的详细配置文档和支持扩展可以在<a href="https://yun.yunyoujun.cn/">这里</a>看到，有详细的说明和<a href="https://yun.yunyoujun.cn/guide/faq.html">踩坑预警</a>，我就不必在此画蛇添足了。</p><ul><li>也许以后会出详细配置过程，如果想看可以在底下评论区留言</li><li>但近期内不会出</li></ul><p><del>太懒了不想写</del></p><h2 id="我用了什么功能"><a href="#我用了什么功能" class="headerlink" title="我用了什么功能"></a>我用了什么功能</h2><blockquote><p>因为个人精力和时间原因我没有使用全部的<a href="https://yun.yunyoujun.cn/guide/config.html">配置设置</a></p><p>如果你因为本站从而产生也想去折腾一个 Blog 的想法</p><p>欢迎从这个主题开始</p></blockquote><h3 id="RSS"><a href="#RSS" class="headerlink" title="RSS"></a><a href="https://www.runoob.com/rss/rss-intro.html">RSS</a></h3><p>本站支持 RSS 订阅</p><p>你可以在这里获取<a href="https://dreamlanter.github.io/atom.xml">本站的 RSS</a> </p><p>请将它添加到你的 <a href="https://www.runoob.com/rss/rss-readers.html">RSS 阅读器</a>里</p><blockquote><p>如果你还不知道 <a href="https://www.runoob.com/rss/rss-intro.html">RSS</a> 可以点击链接进行现场教学</p><p>如果你不知道该用什么 RSS 阅读器</p><p>WEB\Android</p><ul><li><a href="https://www.inoreader.com/language/chinese-simplified">inoreader</a></li><li><a href="https://github.com/zhangsr/Feeder2">Feeder2</a></li></ul><p>Windows</p><ul><li><strong><a href="https://github.com/yang991178/fluent-reader">fluent reader</a> 这个居然是全平台支持</strong></li><li><a href="https://tt-rss.org/">Tiny RSS</a></li></ul><p>Apple</p><ul><li><a href="https://betamagic.nl/products/newsexplorer.html">News Explorer</a> <strong>强推！！</strong></li><li><a href="https://reederapp.com/">Reeder</a></li></ul><p>Linux</p><ul><li><strong><del>用 Linux 的人真的需要我推荐嘛</del></strong></li><li><a href="https://jangernert.github.io/FeedReader/">FeedReader</a></li><li><a href="https://tt-rss.org/">Tiny RSS</a></li></ul></blockquote><h3 id="giscus-评论系统"><a href="#giscus-评论系统" class="headerlink" title="giscus 评论系统"></a><a href="https://giscus.app/">giscus</a> 评论系统</h3><p>本站默认使用 <a href="https://giscus.app/">giscus</a> 评论系统，如果你也想给你的 Blog 使用这项功能请参考<a href="https://giscus.app/">这个页面</a></p><p>giscus 优势</p><ul><li><del>配置容易</del></li><li><a href="https://github.com/giscus/giscus">开源</a>。🌏</li><li>无跟踪，无广告，永久免费。📡** **🚫</li><li>无需数据库。全部数据均储存在 GitHub Discussions 中。::octocat::</li><li>支持<a href="https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#data-theme">自定义主题</a>！🌗</li><li>支持<a href="https://github.com/giscus/giscus/blob/main/CONTRIBUTING.md#adding-localizations">多种语言</a>。🌐</li><li><a href="https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md">高度可配置</a>。🔧</li><li>自动从 GitHub 拉取新评论与编辑。🔃</li><li><a href="https://github.com/giscus/giscus/blob/main/SELF-HOSTING.md">可自建服务</a>！🤳</li></ul><h3 id="图床"><a href="#图床" class="headerlink" title="图床"></a>图床</h3><p>使用 <a href="https://picgo.github.io/PicGo-Doc/">PicGo</a> 和 <a href="https://picgo.github.io/PicGo-Doc/zh/guide/config.html#github%E5%9B%BE%E5%BA%8A">GitHub 图床</a>进行上传和管理</p><p>如果你也在对图片管理方面有困扰</p><p>强烈推荐以上软件</p><h1 id="这个-Blog-是用来干什么的"><a href="#这个-Blog-是用来干什么的" class="headerlink" title="这个 Blog 是用来干什么的"></a>这个 Blog 是用来干什么的</h1><p>本 Blog 打算记录我大学生活的最后一年以及之后的生活</p><p>此站将包括但不限于</p><h2 id="技术博客"><a href="#技术博客" class="headerlink" title="技术博客"></a>技术博客</h2><ul><li>会收录<a href="https://github.com/DreamLanter">我的 GitHub 仓库</a> 以及代码</li><li>学习心得</li><li>技术与普通书籍读书分享</li></ul><h2 id="日常碎碎念"><a href="#日常碎碎念" class="headerlink" title="日常碎碎念"></a>日常碎碎念</h2><ul><li>随笔</li><li>日常大事件感悟及分享</li><li>音乐分享</li><li><del>只存在介绍页的绘画展示</del></li><li>旅行照片 <del>如果条件还允许的话</del></li></ul><blockquote><p>你可以在<a href="https://t.me/DreamLanterLazy">这里</a>订阅我的 Tg 频道</p><p><del>我也不知道里面会有什么</del></p></blockquote><h2 id="折腾"><a href="#折腾" class="headerlink" title="折腾"></a>折腾</h2><p>众所周知搞计算机的都喜欢折腾</p><p>目前已在计划列表中的有</p><ul><li>自用NAS</li><li>垃圾桶里捡来的 HomeLab</li><li>废物 Surface 回收利用计划</li><li>钱多了闲的没处花的全套人体工学设备</li></ul><h2 id="其他奇怪的需求"><a href="#其他奇怪的需求" class="headerlink" title="其他奇怪的需求"></a>其他奇怪的需求</h2><p>以后的日子会发生什么还不知道呢</p><blockquote><p><del>前面的道路以后再来探索吧</del></p></blockquote><h1 id="计划后续加入的功能"><a href="#计划后续加入的功能" class="headerlink" title="计划后续加入的功能"></a>计划后续加入的功能</h1><p>应该会在明年前陆续加入，相信我我不会太监的</p><ul><li><input disabled="" type="checkbox"> live2d <del>谁不喜欢会动的小猫娘呢</del></li><li><input disabled="" type="checkbox"> 播放器</li><li><input disabled="" type="checkbox"> SEO</li><li><input disabled="" type="checkbox"> 友链 links <strong>如果想加入 links 界面请在评论区联系我</strong></li><li><input disabled="" type="checkbox"> 相册 <del>等买了相机就加</del></li><li><input disabled="" type="checkbox"> 打赏 界面还是要有的<del>万一有人想不开呢</del></li></ul><h1 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h1><blockquote><p>我对普通的人类没有兴趣。你们之中如果有外星人、未来人、异世界来客或者超能力者以及喜爱一切有趣事物之人的话就来找我，完毕。<br>——「凉宫春日」</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;从今年年初开始就想搭建一个个人博客，最开始是想用 &lt;a href=&quot;https://wordpress.com/zh-cn/&quot;&gt;WordPr</summary>
+      
+    
+    
+    
+    <category term="折腾" scheme="https://dreamlanter.github.io/categories/%E6%8A%98%E8%85%BE/"/>
+    
+    
+    <category term="博客" scheme="https://dreamlanter.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Hexo" scheme="https://dreamlanter.github.io/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>博客测试</title>
@@ -35,26 +61,6 @@
     
     
     <category term="测试" scheme="https://dreamlanter.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://dreamlanter.github.io/2022/10/15/hello-world/"/>
-    <id>https://dreamlanter.github.io/2022/10/15/hello-world/</id>
-    <published>2022-10-15T06:32:59.961Z</published>
-    <updated>2022-10-16T07:21:58.990Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
     
   </entry>
   
