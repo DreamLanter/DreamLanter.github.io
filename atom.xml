@@ -6,7 +6,7 @@
   <link href="https://dreamlanter.github.io/atom.xml" rel="self"/>
   
   <link href="https://dreamlanter.github.io/"/>
-  <updated>2022-10-17T13:04:33.939Z</updated>
+  <updated>2022-10-25T06:43:39.241Z</updated>
   <id>https://dreamlanter.github.io/</id>
   
   <author>
@@ -15,6 +15,59 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>更新计划</title>
+    <link href="https://dreamlanter.github.io/2022/10/24/update-plan/"/>
+    <id>https://dreamlanter.github.io/2022/10/24/update-plan/</id>
+    <published>2022-10-24T10:27:41.000Z</published>
+    <updated>2022-10-25T06:43:39.241Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="首先要立一个-Flag"><a href="#首先要立一个-Flag" class="headerlink" title="首先要立一个 Flag"></a>首先要立一个 Flag</h1><div class="danger"><blockquote><p><strong>博客更新计划尽量为一周两更，至少一周要更一篇</strong></p></blockquote></div><span id="more"></span><h1 id="更新计划说明"><a href="#更新计划说明" class="headerlink" title="更新计划说明"></a>更新计划说明</h1><p>考虑到个人时间和精力都有限我是做不到每天都去更新的</p><p>而且由于本人表达能力欠佳</p><div class="warning"><blockquote><p>所以每一篇博客都是反复斟酌措辞和排版后</p><p>确认准确无误后才选择上传</p></blockquote></div><p>但 post 还是会语无伦次，不知所云</p><p>为了逐渐避免所以只能多加写作</p><p>为此定下 Flag </p><div class="danger"><blockquote><p>今年内不忙每周两更，忙每周一更</p></blockquote><div><h1 id="我会努力更新的"><a href="#我会努力更新的" class="headerlink" title="我会努力更新的"></a>我会努力更新的</h1>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;首先要立一个-Flag&quot;&gt;&lt;a href=&quot;#首先要立一个-Flag&quot; class=&quot;headerlink&quot; title=&quot;首先要立一个 Flag&quot;&gt;&lt;/a&gt;首先要立一个 Flag&lt;/h1&gt;&lt;div class=&quot;danger&quot;&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;博客更新计划尽量为一周两更，至少一周要更一篇&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    <category term="碎碎念" scheme="https://dreamlanter.github.io/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    
+    <category term="Falg" scheme="https://dreamlanter.github.io/tags/Falg/"/>
+    
+    <category term="博客" scheme="https://dreamlanter.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何科学访问此站</title>
+    <link href="https://dreamlanter.github.io/2022/10/20/top-post/"/>
+    <id>https://dreamlanter.github.io/2022/10/20/top-post/</id>
+    <published>2022-10-20T05:51:51.000Z</published>
+    <updated>2022-10-25T06:38:02.997Z</updated>
+    
+    <content type="html"><![CDATA[<p>如果你在访问本站时出现以下问题</p><ul><li>页面加载慢</li><li>图片加载不出来</li><li>点击文章内<a href="https://www.google.com/?client=safari">链接</a>无反应 &#x2F; 无跳转</li></ul><p>请参考这篇文章</p><span id="more"></span><h1 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h1><div class="warning"><blockquote><p>这篇文章所表达的想法只代表作者本人在当前时间点和所处环境所得出的结论</p><p>随着时间和形势的变化，我可能会打脸推翻我所说的全部结论</p><p>也可能会得出更悲观的观点</p></blockquote></div><div class="danger"><blockquote><p>但就目前我的总体结论还是偏悲观的</p></blockquote></div><p>由于本站采用 GitHub Pages 进行配置，所以在国内访问时<del>可能</del>会出现</p><ol><li>主页背景无法加载</li><li>个人头像无法加载</li><li>你根本进不来</li></ol><p>如果出现这种情况那么很好说明你是一个遵纪守法的中国人</p>]]></content>
+    
+    
+    <summary type="html">施工中，换个 post 看看吧</summary>
+    
+    
+    
+    <category term="碎碎念" scheme="https://dreamlanter.github.io/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    
+    <category term="博客" scheme="https://dreamlanter.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="关于" scheme="https://dreamlanter.github.io/tags/%E5%85%B3%E4%BA%8E/"/>
+    
+    <category term="科学" scheme="https://dreamlanter.github.io/tags/%E7%A7%91%E5%AD%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>从头搭建个人博客</title>
