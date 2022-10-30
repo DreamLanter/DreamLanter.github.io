@@ -6,7 +6,7 @@
   <link href="https://dreamlanter.github.io/atom.xml" rel="self"/>
   
   <link href="https://dreamlanter.github.io/"/>
-  <updated>2022-10-25T06:43:39.241Z</updated>
+  <updated>2022-10-30T15:04:54.296Z</updated>
   <id>https://dreamlanter.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一篇 Post 是怎么诞生的</title>
+    <link href="https://dreamlanter.github.io/2022/10/30/how-to-make-a-post/"/>
+    <id>https://dreamlanter.github.io/2022/10/30/how-to-make-a-post/</id>
+    <published>2022-10-30T14:31:19.000Z</published>
+    <updated>2022-10-30T15:04:54.296Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一篇-Post-是怎么诞生的"><a href="#一篇-Post-是怎么诞生的" class="headerlink" title="一篇 Post 是怎么诞生的"></a>一篇 Post 是怎么诞生的</h1><p>以这篇文章为例聊聊我是怎么写作的</p><span id="more"></span><h2 id="理清思路"><a href="#理清思路" class="headerlink" title="理清思路"></a>理清思路</h2><p>在写 post 之前要进行充分思考以此来确定整篇 post 的骨架，为此在动笔之前要为文章写出大纲</p><h3 id="写大纲"><a href="#写大纲" class="headerlink" title="写大纲"></a>写大纲</h3><p>书写大纲的目的是为了提前规划好内容和图片，这样能更轻松的完成写作</p><h4 id="大纲类型工具"><a href="#大纲类型工具" class="headerlink" title="大纲类型工具"></a>大纲类型工具</h4><p>大纲工具有很多，我之前用的工具是 <a href="https://mubu.com/inv/133506">幕布</a></p><h5 id="幕布"><a href="#幕布" class="headerlink" title="幕布"></a><a href="https://mubu.com/inv/133506">幕布</a></h5><p>幕布是一款云端的产品，可以掌握你在云端完成所有的工作。</p><h6 id="基础概念"><a href="#基础概念" class="headerlink" title="基础概念"></a>基础概念</h6><p>在幕布中有三个概念，分别是文件夹、文档、条目，我们使用文件夹来区分不同的项目，比如说，你写的 GitChat 文章可以单独放一个目录，目录下不同的文档对应不同的 Chat 文章。</p><h6 id="特色功能"><a href="#特色功能" class="headerlink" title="特色功能"></a>特色功能</h6><p>当你完成了你大纲的构建以后，你可以点击界面的右上角的思维导图按钮，进入思维导图模式，查看具体的思维导图。</p><p>在思维导图中，你可以看到整个大纲的内容，帮你建立整体的大局观，不会因为在局部过于聚焦，而导致文章整体的结构出现问题。</p><h6 id="为什么我现在不用了"><a href="#为什么我现在不用了" class="headerlink" title="为什么我现在不用了"></a>为什么我现在不用了</h6><p>因为我有的时候会在睡觉前用 iPad 进行大纲的整理和写作，但幕布不是全平台的而且必须全程联网所以我放弃了继续使用它。</p><p>第二点幕布是月付软件，持续使用是一笔不小的费用。<del>没钱了请给我打钱</del></p><h4 id="思维导图"><a href="#思维导图" class="headerlink" title="思维导图"></a>思维导图</h4><p>现在我换成了思维导图软件，思维导图软件可以帮助发散思维，在原有基础上更好的进行再次头脑风暴</p><p>现在我使用的软件是 Mindnote</p><h5 id="Mindnote"><a href="#Mindnote" class="headerlink" title="Mindnote"></a><a href="https://www.mindnode.com/">Mindnote</a></h5><p>Mindnote 是一款思维导图软件更他类似的软件有 Xmind</p><p>我用它没有特别的原因是他在 <a href="https://setapp.com/">SETAPP</a> 大礼包里面可以直接免费用而且苹果全家桶都能用 iOS iPadOS macOS 都能用</p><p><img src="https://raw.githubusercontent.com/DreamLanter/picture-bed/main/%E4%B8%80%E7%AF%87%20post%20%E6%98%AF%E6%80%8E%E6%A0%B7%E8%AF%9E%E7%94%9F%E7%9A%84%20%E5%A4%A7%E7%BA%B2" loading="lazy"></p><p>而且他还能反向生成大纲结构</p><p><img src="https://raw.githubusercontent.com/DreamLanter/picture-bed/main/%E4%B8%80%E7%AF%87%20Post%20%E6%98%AF%E6%80%8E%E6%A0%B7%E8%AF%9E%E7%94%9F%E7%9A%84%20outline.png" alt="大纲图" loading="lazy"></p><h5 id="如何绘制思维导图"><a href="#如何绘制思维导图" class="headerlink" title="如何绘制思维导图"></a>如何绘制思维导图</h5><p>思维导图的绘制总的来说，十分的简单，我们先在思维导图中写下一个关键字，将其作为主题，随后进行头脑风暴，将我们所想到的，相关的内容全部都写下来。</p><p>在完成一轮头脑风暴以后，选择主题下方的一个关键词，并以其作为我们的新的主题，进行再一次的头脑风暴，并不断的这样深入进行，直到想不出任何东西为止。，从而确保我们有足够多的灵感可以用。</p><p>在完成了头脑风暴的过程以后，你需要对你的思维导图进行重新思考，查漏补缺，看看是否有部分内容没有记录在脑图里。</p><h4 id="思维导图设计原则"><a href="#思维导图设计原则" class="headerlink" title="思维导图设计原则"></a>思维导图设计原则</h4><p>在使用思维导图时，你需要注意，思维导图并不是随便画画的，你在绘制思维导图时，应当遵循一些基本的原则：</p><ol><li><strong>每个节点都应当是以关键词的形态出现</strong>：关键词的形态会让我们不会局限在一个节点上。关键词的形态可以让我们进一步的联想，思考与关键词相关的内容。这样可以确保我们的思维导图有足够的内容。</li><li><strong>思维导图中样式不是关键</strong>：我见过不少人将自己的思维导图绘制的美仑美奂，的确，这样的思维导图很漂亮，但是不可否认的是，这样的思维导图也需要花费大量的时间和精力。我们对于思维导图的用途目标是辅助思考，而不是记忆，对于我们来说，我们需要的是又快又好的完成任务的思考，因此，你无需在意样式，用好思维导图做好思考才是最重要的。</li><li><strong>头脑风暴不设限</strong>：在第一条原则中，让大家使用关键词，便是为了让大家的思考不设限，一个单纯的关键词我们可以想象出各种各样的东西，但一个完整的句子，会让我们少思考非常多的东西，这会让我们在进行头脑风暴时，自我设限。</li></ol><h3 id="对大纲进行改写和补充"><a href="#对大纲进行改写和补充" class="headerlink" title="对大纲进行改写和补充"></a>对大纲进行改写和补充</h3><p>一般初版大纲的撰写都会有不足，这时我一般会对大纲进行改写和补充。</p><h4 id="对初版大纲不满"><a href="#对初版大纲不满" class="headerlink" title="对初版大纲不满"></a>对初版大纲不满</h4><p>对初版大纲不满一般有以下原因</p><h5 id="不满原因"><a href="#不满原因" class="headerlink" title="不满原因"></a>不满原因</h5><ol><li>主节点与分支关系不明确<img src="https://raw.githubusercontent.com/DreamLanter/picture-bed/main/%E5%AF%BC%E5%9B%BE%E8%AF%B4%E6%98%8E1.png" loading="lazy"></li><li>缺少节点或详细说明<img src="https://raw.githubusercontent.com/DreamLanter/picture-bed/main/%E5%88%86%E6%94%AF%E8%AF%B4%E6%98%8E2.png" loading="lazy"></li><li>分支描述不清</li></ol><h5 id="更改"><a href="#更改" class="headerlink" title="更改"></a>更改</h5><ol><li>修改节点关系层次和顺序</li><li>补充说明</li><li>增加配图补充说明<img src="https://raw.githubusercontent.com/DreamLanter/picture-bed/main/update_detail.png" loading="lazy"></li></ol><h4 id="大纲修改至无误"><a href="#大纲修改至无误" class="headerlink" title="大纲修改至无误"></a>大纲修改至无误</h4><p>将大纲修改至无误后就可进入下一步 <strong>草稿撰写</strong></p><h2 id="草稿"><a href="#草稿" class="headerlink" title="草稿"></a>草稿</h2><p>在大纲修改无误后还需要根据大纲内容进行草稿的撰写</p><blockquote><p>即使已经有了准确的大纲但还是不能着急进入 post 的正式撰写</p></blockquote><h3 id="软件"><a href="#软件" class="headerlink" title="软件"></a>软件</h3><p>简单说一下我用的软件</p><h4 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a><a href="https://www.typora.io/">Typora</a></h4><p>因为写作采用的是 Markdown 格式所以在草稿阶段我用 Typora 进行写作</p><p><img src="https://raw.githubusercontent.com/DreamLanter/picture-bed/main/Typora.png" loading="lazy"></p><h4 id="Word"><a href="#Word" class="headerlink" title="Word"></a>Word</h4><p>一般人写作应该用的都是 Word 但在博客写作方面我不是很赞同使用 Word</p><h5 id="我为什么不用-Word"><a href="#我为什么不用-Word" class="headerlink" title="我为什么不用 Word"></a>我为什么不用 Word</h5><p>Word 对 HTML 的支持做的不是很好，最后正式版还是得用 Markdown 格式</p><h5 id="什么时候用-Word"><a href="#什么时候用-Word" class="headerlink" title="什么时候用 Word"></a>什么时候用 Word</h5><p>在需要大量排版或者以后有 WEB 页面支持直接上传 Word 文件直接生成对应文件时所有博客写作人都会用 Word</p><p>但由于微软对 Office 的控制应该不会有这种框架出现</p><blockquote><p>但我很期待那一天的到来</p></blockquote><p>或者 WEB 端全面支持 Latex</p><p>我以后应该会出一篇博客专门讲 Latex</p><h3 id="随意写作"><a href="#随意写作" class="headerlink" title="随意写作"></a>随意写作</h3><p>在草稿写作时我一般采取随意写作的方法</p><ul><li>不用管内容根据导图随意进行补充填充</li><li>不用在意文章结构和语序</li><li>尽量多些</li></ul><h4 id="随意写作的好处"><a href="#随意写作的好处" class="headerlink" title="随意写作的好处"></a>随意写作的好处</h4><ul><li>可以将写作时突发灵感进行保存<ul><li>方便再次进行头脑风暴</li><li>整理要修改的内容</li></ul></li><li>方便后续修改<ul><li>可以在草稿阶段将文章缺点最大程度的暴露</li></ul></li></ul><h3 id="修改"><a href="#修改" class="headerlink" title="修改"></a>修改</h3><p>在初版草稿写作完成后下一步就是对他进行修改</p><h4 id="对草稿的修改要达成的目标"><a href="#对草稿的修改要达成的目标" class="headerlink" title="对草稿的修改要达成的目标"></a>对草稿的修改要达成的目标</h4><p>在对初版草稿修改时要以以下亮点为目标</p><ol><li>修改语言表达<ol><li>在随意写作时会出现大量的错别字、语法上的错误。在修改时要修复我们文章中那些显而易见的错误。</li><li>反复阅读以此修改文章中的语言表达不当问题</li></ol></li><li>确保草稿主题内容没有问题<ol><li>最大程度保留草稿时所要表述的内容</li><li>不要对草稿进行过度修改</li></ol></li></ol><h4 id="修改原则"><a href="#修改原则" class="headerlink" title="修改原则"></a>修改原则</h4><p>为了达成修改目标一般遵循以下原则</p><h5 id="文章逻辑不能出错"><a href="#文章逻辑不能出错" class="headerlink" title="文章逻辑不能出错"></a>文章逻辑不能出错</h5><p>在初版草稿写作时为了更好的头脑风暴通常会带来文章逻辑混乱和语言表达不对等问题。在修改时一定要将这些问题改正</p><h5 id="多提问"><a href="#多提问" class="headerlink" title="多提问"></a>多提问</h5><p>在修改的时候，你需要多对自己的内容进行提问“为什么这里要这样写”、“为什么这里应用了这个典故”、“这句话想要表达什么意思”……</p><p><strong>通过对自己的不断提问，你会发现，原本你以为逻辑非常通顺的地方，可能存在逻辑的漏洞。</strong></p><h5 id="删除一些内容"><a href="#删除一些内容" class="headerlink" title="删除一些内容"></a>删除一些内容</h5><p>我们在写文章的时候，常常会因为口语的习惯，让我们的行文中出现大量本不需要出现的词汇和语句，你可以在修改的时候，试着删除一部分内容，看看能否保留原意。倘若删除以后，文章本身的意思并没有发生什么变化，你就要考虑考虑，原本所写的内容，是否真的适合，它在文章中是否起到了应有的效果。</p><h3 id="润色"><a href="#润色" class="headerlink" title="润色"></a>润色</h3><p>当我们完成了基本的内容的写作，并进行了一轮的修改后，最后，就是开始润色的过程了，在这个过程中你可以对原有的句子进行润色，加入一些不会影响句子结构和文章意思的词汇，比如形容词、副词等，使得你的文章更加的饱满圆润。</p><h3 id="多轮修改"><a href="#多轮修改" class="headerlink" title="多轮修改"></a>多轮修改</h3><p>修改并非一次之功，在前面我曾说到，随着时间的变化，你对于文章的看法也会发生变化，你可以对文章进行多轮次的修改，从而不断的优化自己的文章，使你的文章越变越好。</p><p>第一次修改，可以让你的文章从不及格，变为及格。二、三次修改，可以让你的文章从及格，变为优秀。</p><h2 id="正式版"><a href="#正式版" class="headerlink" title="正式版"></a>正式版</h2><p>在多轮修改并确认文章内容、逻辑、语言表达均无问题后接下来将进入正式版的写作</p><h3 id="正式版写作前准备"><a href="#正式版写作前准备" class="headerlink" title="正式版写作前准备"></a>正式版写作前准备</h3><p>在正式版开始写作前应该做检查以下几点</p><ol><li>文章逻辑是否清晰</li><li>语言表达是否有误</li><li>确保文章内容除了排版外不用在做其他修改</li><li>将草稿发给朋友做最后确认</li></ol><p>自己与朋友都检查无误后对文章排版进行修改</p><h3 id="修改文章排版"><a href="#修改文章排版" class="headerlink" title="修改文章排版"></a>修改文章排版</h3><p>文章排版方面所有 Post 均按照 <a href="https://github.com/sparanoid/chinese-copywriting-guidelines">中文文案排版指北</a> 要求进行排版</p><h2 id="发布上传"><a href="#发布上传" class="headerlink" title="发布上传"></a>发布上传</h2><p>在正式版完成后就剩下发布和上传了。用 git push 直接推送到 GitHub 上后续的持续集成工作将会由 GitHub pages 自行完成。</p><p>为了方便这一过程我写了一个 shell 脚本来帮我完成</p><pre class="language-bash" data-language="bash"><code class="language-bash">hexo clean <span class="token comment"># 清除缓存</span>hexo d <span class="token parameter variable">-g</span> <span class="token comment"># 重新部署 Hexo</span><span class="token function">git</span> <span class="token function">add</span> <span class="token parameter variable">-A</span><span class="token function">git</span> commit <span class="token parameter variable">-m</span> <span class="token string">'update hexo backup'</span><span class="token function">git</span> push origin hexo <span class="token comment"># 备份 Hexo 源文件</span></code></pre><p>这样即可完成一键发布与上传的整个过</p>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;一篇-Post-是怎么诞生的&quot;&gt;&lt;a href=&quot;#一篇-Post-是怎么诞生的&quot; class=&quot;headerlink&quot; title=&quot;一篇 Post 是怎么诞生的&quot;&gt;&lt;/a&gt;一篇 Post 是怎么诞生的&lt;/h1&gt;&lt;p&gt;以这篇文章为例聊聊我是怎么写作的&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术相关" scheme="https://dreamlanter.github.io/categories/%E6%8A%80%E6%9C%AF%E7%9B%B8%E5%85%B3/"/>
+    
+    
+    <category term="博客" scheme="https://dreamlanter.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="写作" scheme="https://dreamlanter.github.io/tags/%E5%86%99%E4%BD%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>更新计划</title>
@@ -61,11 +84,11 @@
     <category term="碎碎念" scheme="https://dreamlanter.github.io/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
     
+    <category term="博客" scheme="https://dreamlanter.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
     <category term="关于" scheme="https://dreamlanter.github.io/tags/%E5%85%B3%E4%BA%8E/"/>
     
     <category term="科学" scheme="https://dreamlanter.github.io/tags/%E7%A7%91%E5%AD%A6/"/>
-    
-    <category term="博客" scheme="https://dreamlanter.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
